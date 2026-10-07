@@ -10,7 +10,7 @@
 **Output:** 
 | Situation | Output |
 |-----------|--------|
-| Valid conversion | `Result: <value> <unit>` eg `C = 32.00 F` |
+| Valid conversion | `Result: <value> <unit>` eg `Result: 32.00 F` |
 | Direction is not `F` or `C` | `Unsupported direction` |
 | Temperature missing or not a number | `Invalid input` |
 
